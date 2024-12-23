@@ -1,4 +1,25 @@
-# Mailspring Theme Starter
+# Lighter Dark Mailspring Theme
+
+This is a lighter version of the original dark theme for Mailspring, providing improved readability and a more balanced color palette.
+
+## Customizations
+
+- Lightened background colors for a softer appearance.
+- Changed the accent colors to maroon.
+
+## Installation Instructions
+
+1. Download or clone this repository.
+2. In Mailspring, navigate to **Mailspring > Install New Theme...**.
+3. Select the directory where you have the theme files.
+4. Choose the new theme in the settings.
+
+## Credits
+
+This theme is a modified version of the original "ui-dark" theme
+
+## Original Readme Info:
+## Mailspring Theme Starter
 
 The Mailspring Theme Starter is a basic starting point for creating a theme for
 the [Mailspring](http://www.getmailspring.com/) email client.
