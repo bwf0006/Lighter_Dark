@@ -2,12 +2,12 @@
 
 This is a lighter version of the original dark theme for Mailspring, providing improved readability and a more balanced color palette.
 
-<img src="https://github.com/bwf0006/Lighter_Dark/blob/master/screenshot/Lighter_Dark.png" />
-
 ## Customizations
 
 - Lightened background colors for a softer appearance.
 - Changed the accent colors to maroon.
+
+<img src="https://github.com/bwf0006/Lighter_Dark/blob/master/screenshot/Lighter_Dark.png" />
 
 ## Installation Instructions
 
