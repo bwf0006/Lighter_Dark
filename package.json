@@ -1,13 +1,12 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
-  "theme": "ui",
+  "name": "Lighter_Dark",
+  "title": "Lighter_Dark",
+  "displayName": "Lighter_Dark",
+  "theme": "ui-dark",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A more readable dark theme.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
   }
 }
-
